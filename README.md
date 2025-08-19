@@ -5,7 +5,7 @@
 
 A third-party tool for EVE Online to streamline industrial processes. It takes a pasted buy order, breaks down the assembly tree, calculates required materials based on corporation stock and blueprints, and provides a price quote to the buyer.
 
-![Screenshot of the application's main interface](https://trello.com/1/cards/689e1660eaace3b199f6392d/attachments/68a363919b0f8488b1dbc639/download/de1b74b77f1d428ebf4b13feb03a7257.png)
+![Screenshot of the application's main interface](https://i.imgur.com/EiFqQRO.png)
 
 ## Description
 
