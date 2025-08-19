@@ -1,4 +1,4 @@
-# [Project Name] - EVE Online Manufacturing Tool
+# 3GODS Indy Tool - EVE Online Manufacturing Tool
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/3gods/3gods-indy-tool)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -40,7 +40,7 @@ You will need to have [Docker](https://www.docker.com/get-started) and [Docker C
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/](https://github.com/)[YourUsername]/[YourRepo].git
+    git clone [https://github.com/](https://github.com/)3gods/3gods-indy-tool.git
     cd [YourRepo]
     ```
 
