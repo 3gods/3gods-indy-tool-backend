@@ -1,6 +1,6 @@
 # [Project Name] - EVE Online Manufacturing Tool
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/[YourUsername]/[YourRepo])
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/3gods/3gods-indy-tool)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A third-party tool for EVE Online to streamline industrial processes. It takes a pasted buy order, breaks down the assembly tree, calculates required materials based on corporation stock and blueprints, and provides a price quote to the buyer.
